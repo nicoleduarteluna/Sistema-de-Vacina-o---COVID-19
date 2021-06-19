@@ -1,0 +1,11 @@
+Sistema de Vacinação criado na linguagem JAVA, integrado ao banco de dados MYSQL e utilizando a biblioteca do Java Swing.
+
+OBSERVAÇÕES:
+
+- Para rodar na sua máquina, é necessário criar o banco de dados de acordo com o script que foi disponibilizado no diretório, "script_banco_de_dados.sql", 
+apenas abrindo e executando no seu banco de dados.
+
+- Seu usuário e senha do banco de dados deve ser alterado na classe "ConnectionFactory", de acordo com suas credenciais. O padrão que será enviado no documento disponibilizado
+neste diretório é: usuário covid e senha Covid2021 (com C maiúsculo).
+
+Bom, é isso. Lembrando que a versão do MYSQL que o programa foi baseado é 8.0.23 e o do connector J também! 
